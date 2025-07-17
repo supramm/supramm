@@ -91,7 +91,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=supramm" alt="Streak Stats" width="30%"/>
 </div>
 
-## 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
