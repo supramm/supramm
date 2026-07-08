@@ -88,9 +88,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=supramm&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=supramm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=supramm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)
 </p>
 
 <picture>
