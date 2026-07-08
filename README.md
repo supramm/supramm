@@ -101,8 +101,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/supramm/your-repo/issues/42) in [supramm/your-repo](https://github.com/supramm/your-repo)  
-2. ⭐ Starred [someuser/someproject](https://github.com/someuser/someproject)  
-3. 🔀 Merged PR [#7](https://github.com/supramm/another-repo/pull/7) in [supramm/another-repo](https://github.com/supramm/another-repo)  
+1. ❗ Opened issue [#42](https://github.com/supramm/sentinel-frontend) in [supramm/sentinel-frontend](https://github.com/supramm/sentinel-frontend)  
+2. ⭐ Starred [someuser/someproject](https://github.com/supramm/TATASecureVision)  
+3. 🔀 Merged PR [#7](https://github.com/supramm/sentinel-rag) in [supramm/another-repo](https://github.com/supramm/sentinel-rag)  
 <!--END_SECTION:activity-->
 
