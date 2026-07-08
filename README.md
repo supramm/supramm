@@ -79,18 +79,19 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supramm)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supram.kumar07@gmail.com)
 
-## 🏆 My GitHub Trophies
+## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=supramm&theme=aura&row=1&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=supramm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+</p>
 
 ## 📊 GitHub Stats
 
-<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=supramm&count_private=true&show_icons=true&layout=compact" alt="Top Languages" width="30%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=supramm&show_icons=true" alt="Overall Stats" width="30%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supramm" alt="Streak Stats" width="30%"/>
-</div>
+<p align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=supramm&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
