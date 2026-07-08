@@ -109,7 +109,7 @@
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#42](https://github.com/supramm/sentinel-frontend) in [supramm/sentinel-frontend](https://github.com/supramm/sentinel-frontend)  
-2. ⭐ Starred [someuser/someproject](https://github.com/supramm/TATASecureVision)  
+2. ⭐ Starred [supramm/TATASecureVision](https://github.com/supramm/TATASecureVision)  
 3. 🔀 Merged PR [#7](https://github.com/supramm/sentinel-rag) in [supramm/another-repo](https://github.com/supramm/sentinel-rag)  
 <!--END_SECTION:activity-->
 
