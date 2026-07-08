@@ -98,9 +98,6 @@
     <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=supramm&layout=compact&langs_count=4&theme=dark" alt="Top Languages" />
   </a>
 
-  <a href="https://git.io/streak-stats">
-    <img height="170" src="https://streak-stats.demolab.com?user=supramm&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
-  </a>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
