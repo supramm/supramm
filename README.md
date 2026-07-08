@@ -81,24 +81,14 @@
 
 ## 🏆 My GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supramm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-> **Note:** If the trophies don't load, the trophy service is temporarily down.
+[![trophy](https://github-trophies.vercel.app/?username=supramm&theme=aura&row=1&no-frame=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=supramm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=supramm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
-  </a>
-
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=supramm&layout=compact&langs_count=4&theme=dark">
-    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=supramm&layout=compact&langs_count=4&theme=dark" alt="Top Languages" />
-  </a>
-
-</p>
+<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap;">  
+  <img src="https://github-stats-extended.vercel.app/api?username=supramm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" alt="Overall Stats" width="30%"/>
+  <img src="https://streak-stats.demolab.com?user=supramm&theme=transparent&hide_border=true&mode=weekly" alt="Streak Stats" width="30%"/>
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
