@@ -79,18 +79,29 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supramm)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supram.kumar07@gmail.com)
 
-## 🏆 GitHub Trophies
+## 🏆 My GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supramm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=supramm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
 </p>
+
+> **Note:** If the trophies don't load, the trophy service is temporarily down.
 
 ## 📊 GitHub Stats
 
 <p align="center">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=supramm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=supramm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)
-</p>
+  <a href="https://github-stats-extended.vercel.app/api?username=supramm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=supramm&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+  </a>
 
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=supramm&layout=compact&langs_count=4&theme=dark">
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=supramm&layout=compact&langs_count=4&theme=dark" alt="Top Languages" />
+  </a>
+
+  <a href="https://git.io/streak-stats">
+    <img height="170" src="https://streak-stats.demolab.com?user=supramm&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  </a>
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
